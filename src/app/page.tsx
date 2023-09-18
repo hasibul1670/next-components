@@ -1,5 +1,5 @@
-import Image from 'next/image'
 import HomePage from "./home/page";
+
 
 export default function Home() {
   return (
@@ -8,5 +8,5 @@ export default function Home() {
       <HomePage  height='200vh' />
    
     </main>
-  )
+  );
 }
