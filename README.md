@@ -1,6 +1,5 @@
 ### Next Js 13 Demo App By Using App Router
 
-
 #### Using Raw Tailwind CSS without any Component Library
 
 - Navbar
